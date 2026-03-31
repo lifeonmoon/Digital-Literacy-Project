@@ -1,18 +1,54 @@
-Subject: Request for Deadline Extension – Digital Literacy Assignment (CSE0001)
+# Task 4 – Professional Email Drafts
 
-Dear Professor,
+---
 
-I hope this email finds you well.
+## Email 1: Requesting an Assignment Extension
 
-I am writing to respectfully request a short extension on the upcoming Digital Literacy project submission, which is currently due on 31st March 2026. Unfortunately, I have been dealing with an unexpected family emergency over the past few days, which has temporarily impacted my ability to complete the work to the standard I would like.
+**To:** prof.sharma@vitbhopal.ac.in  
+**Subject:** Request for Extension on Assignment Submission – Digital Systems (Course Code: CSE2001)
 
-Would it be possible to submit the assignment by 4th April 2026 (Friday, 5:00 PM)? I have completed a significant portion of the work and just need slightly more time to finalize the project report and upload the remaining deliverables to my GitHub repository.
+Dear Professor Sharma,
 
-I understand if this is not possible and am happy to discuss alternatives at your convenience. Thank you very much for your time and understanding.
+I hope this email finds you in good health. I am Akhil Singh, a first-year B.Tech student in Computer Science and Engineering (Registration Number: 24BCE10XXX), currently enrolled in your Digital Systems course.
 
-Sincerely,
+I am writing to respectfully request a short extension of three days on the upcoming assignment submission deadline, currently set for 5th April 2026. Over the past week, I have been dealing with a medical condition that has significantly impacted my ability to concentrate and complete the assignment to the standard I know is expected. I have attached a medical certificate from the university health centre for your reference.
 
+I have already completed approximately 60% of the assignment and am confident I can submit high-quality work if granted a short extension until 8th April 2026. I sincerely apologise for any inconvenience this may cause and assure you that this is not a reflection of my commitment to the course.
+
+I would be grateful for your understanding and guidance in this matter.
+
+Yours sincerely,  
 Prisha Chaturvedi
-Reg No: 25BCE10506
-B.Tech Computer Science Core, First Year
-VIT Bhopal University
+Registration No.: 25BCE10506
+B.Tech – Computer Science & Engineering (Year 1)  
+VIT Bhopal University  
+Email: prisha.25bce10506@vitbhopal.ac.in
+
+---
+
+## Email 2: Expressing Interest in a Summer Internship
+
+**To:** internships@techwave.in  
+**Subject:** Application for Summer Internship Opportunity – Computer Science Student | VIT Bhopal University
+
+Dear Internship Coordinator,
+
+I am writing to express my strong interest in any available summer internship opportunities at TechWave Solutions for the year 2026. I am Akhil Singh, a first-year B.Tech student specialising in Computer Science and Engineering at VIT Bhopal University, with an expected graduation year of 2028.
+
+Although I am at an early stage of my academic journey, I have proactively developed skills in Python programming, data structures, and web fundamentals beyond my coursework. I regularly practise problem-solving on HackerRank, maintain an active GitHub profile showcasing my personal projects, and am eager to apply my theoretical knowledge to real-world challenges in a professional environment.
+
+I am particularly drawn to TechWave's work in software product development, and I believe an internship with your team would provide invaluable exposure to industry practices, collaborative engineering workflows, and professional standards that I cannot gain in a classroom alone.
+
+I have attached my résumé and GitHub profile link for your review. I would welcome the opportunity to speak with you about how I might contribute to your team this summer. Please do not hesitate to contact me at the email address below.
+
+Thank you sincerely for your time and consideration.
+
+Yours faithfully,  
+Prisha Chaturvedi
+B.Tech – Computer Science & Engineering (Year 1)     
+VIT Bhopal University    
+📧 prisha.25bce10506@vitbhopal.ac.in    
+ 
+
+---
+*CSE0001 – Digital Literacy | Task 4 – Part A | VIT Bhopal University*
