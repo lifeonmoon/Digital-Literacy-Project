@@ -1,11 +1,11 @@
-# Task 4 – Professional Email Drafts
+Task 4 – Professional Email Drafts
 
----
 
-## Email 1: Requesting an Assignment Extension
 
-**To:** prof.sharma@vitbhopal.ac.in  
-**Subject:** Request for Extension on Assignment Submission – Digital Systems (Course Code: CSE2001)
+Email 1: Requesting an Assignment Extension
+
+To: prof.sharma@vitbhopal.ac.in  
+Subject: Request for Extension on Assignment Submission – Digital Systems (Course Code: CSE2001)
 
 Dear Professor Sharma,
 
